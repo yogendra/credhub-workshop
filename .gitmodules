@@ -7,3 +7,6 @@
 [submodule "spring-music"]
 	path = spring-music
 	url = https://github.com/yogendra/spring-music.git
+[submodule "credentials-service-client"]
+	path = credentials-service-client
+	url = https://github.com/yogendra/credentials-service-client.git
