@@ -1,3 +1,9 @@
 [submodule "bucc"]
 	path = bucc
 	url = https://github.com/starkandwayne/bucc.git
+[submodule "spring-twitter-stream"]
+	path = spring-twitter-stream
+	url = https://github.com/yogendra/spring-twitter-stream.git
+[submodule "spring-music"]
+	path = spring-music
+	url = https://github.com/yogendra/spring-music.git
