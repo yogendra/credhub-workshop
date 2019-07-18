@@ -10,6 +10,12 @@
 - Credhub Cli
 - Java Development Environment (JDK, IDE, etc.)
 - Git client
+- Clone this repo
+
+  ```
+  git clone --recursive https://github.com/yogendra/credhub-workshop.git
+  cd credhub-workshop
+  ```
 
 ## Setup
 
