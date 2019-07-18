@@ -126,3 +126,4 @@ First, login to the PCF environment.
 - [Using Credhub Broker for Custom Service Credentials](https://docs.pivotal.io/credhub-service-broker/using.html)
 
 - [Credhub as an Opinionated Service](https://medium.com/@srinivasan.surprise/credhub-as-an-opinionated-service-8336442fb2bc)
+- [Workshop Lab Environment](workshop.md)
