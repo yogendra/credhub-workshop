@@ -105,6 +105,8 @@ First, login to the PCF environment.
   }'
   ```
 
+  > **Note**: Get Twitter credentials from [here](twitter.md)
+
 - Build twitter streaming app
 
   ```
@@ -127,3 +129,4 @@ First, login to the PCF environment.
 
 - [Credhub as an Opinionated Service](https://medium.com/@srinivasan.surprise/credhub-as-an-opinionated-service-8336442fb2bc)
 - [Workshop Lab Environment](workshop.md)
+- [Twitter Keys](twitter.md)
