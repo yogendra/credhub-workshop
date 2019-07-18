@@ -4,6 +4,11 @@
 
 [Slide Deck](credhub-workshop.pdf)
 
+<object data="credhub-workshop.pdf" type="application/pdf" width="700px" height="700px">
+<embed src="credhub-workshop.pdf"/>
+
+</object>
+
 ## Requirement
 
 - PCF Environment
