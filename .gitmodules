@@ -10,3 +10,12 @@
 [submodule "credentials-service-client"]
 	path = credentials-service-client
 	url = https://github.com/yogendra/credentials-service-client.git
+[submodule "credentials-service-broker"]
+	path = credentials-service-broker
+	url = https://github.com/yogendra/credentials-service-broker.git
+[submodule "spring-credhub"]
+	path = spring-credhub
+	url = https://github.com/yogendra/spring-credhub.git
+[submodule "credhub-java-sample"]
+	path = credhub-java-sample
+	url = https://github.com/yogendra/credhub-java-sample.git
