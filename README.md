@@ -1,12 +1,9 @@
---
-
 # Credhub Workshop
 
-[Slide Deck](credhub-workshop.pdf)
-
 <object data="credhub-workshop.pdf" type="application/pdf" width="700px" height="700px">
-<embed src="credhub-workshop.pdf"/>
-
+<embed src="credhub-workshop.pdf">
+  <p><a href="credhub-workshop.pdf">Click here to Download Slide Deck</a></p>
+</embed>
 </object>
 
 ## Requirement
